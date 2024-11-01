@@ -1,3 +1,4 @@
+#EXTM3U url-tvg "https://epg.ovh/plar.xml"
 #EXTINF:0,##### PL KANAŁY (NA) #####
 #EXTINF:0,PL| ITVN HD (NA)
 http://ya.trythisone.cc:80/play/live.php?mac=00:1A:79:ab:8d:a8&stream=897006&extension=ts&play_token=PeEGBLmsog&sn2=
